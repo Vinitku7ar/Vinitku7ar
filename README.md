@@ -79,13 +79,15 @@ Hi! I'm **Vinit Kumar**, an aspiring **Android Developer** with a passion for bu
 
 ---
 
-## 🐍 Contribution Snake
-
+## 🐾 GitHub Contributions
 <p align="center">
-  <img src="https://github.com/Vinitku7ar/Vinitku7ar/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinitkumar&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinitkumar&theme=tokyonight&show_icons=true&count_private=true&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=30" />
+</p>
+
 
 ## 📫 Connect With Me
 
