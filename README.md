@@ -66,15 +66,15 @@ Hi! I'm **Vinit Kumar**, an aspiring **Android Developer** with a passion for bu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinitkumar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinitku7ar&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinitkumar&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinitku7ar&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitkumar&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinitku7ar&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -82,7 +82,7 @@ Hi! I'm **Vinit Kumar**, an aspiring **Android Developer** with a passion for bu
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/vinitkumar/vinitkumar/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Vinitku7ar/Vinitku7ar/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
