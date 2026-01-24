@@ -99,7 +99,7 @@ Hi! I'm **Vinit Kumar**, an aspiring **Android Developer** with a passion for bu
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
 </p>
-
+.
 ---
 
 ## ✨ Quote
